@@ -1,0 +1,11 @@
+com\ev_volt\models\ScheduledUpdater.class
+com\ev_volt\models\Transforms.class
+com\ev_volt\models\ComPortDevice.class
+com\ev_volt\controllers\RootViewController.class
+com\ev_volt\controllers\BatteryTabViewController.class
+com\ev_volt\controllers\MainTabViewController.class
+module-info.class
+com\ev_volt\models\ScheduledUpdater$1.class
+com\ev_volt\controllers\OscilloscopeTabViewController.class
+com\ev_volt\App.class
+com\ev_volt\models\Oscilloscope.class
